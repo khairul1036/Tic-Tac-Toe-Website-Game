@@ -2,6 +2,9 @@
 
 A fun and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**. This game features an attractive design, smooth animations, and engaging gameplay. Play against a friend and enjoy the experience!
 
+## Try Now
+🔗 Live Link: https://tic-tac-toe-scikodex.netlify.app
+
 ## 🚀 Features
 ✅ Beautiful and modern UI with animations 🎨  
 ✅ Smooth hover effects and transitions ⚡  
@@ -15,11 +18,11 @@ To install and run the game locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/khairul1036/Tic-Tac-Toe-Website-Game.git
    ```
 2. **Navigate to the project folder**:
    ```sh
-   cd tic-tac-toe
+   cd Tic-Tac-Toe-Website-Game
    ```
 3. **Open the `index.html` file in a browser**.
 
